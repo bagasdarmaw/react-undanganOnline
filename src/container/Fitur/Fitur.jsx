@@ -8,7 +8,7 @@ import './Fitur.css'
 
 const Fitur = () => {
   return (
-    <div className='app__fitur app__wrapper-fitur flex__center section__padding' id='#fitur'>
+    <div className='app__fitur app__wrapper-fitur flex__center section__padding' id='fitur'>
         <div className='app__fitur-tittle'>
             <h1 className='headtext__cormorant'>Fitur Tersedia</h1>
             <SubHeading title='Fitur-fitur yang digunakan dalam undangan online' />
